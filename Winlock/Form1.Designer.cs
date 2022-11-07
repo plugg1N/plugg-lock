@@ -73,9 +73,9 @@
             this.label1.Location = new System.Drawing.Point(576, 37);
             this.label1.Margin = new System.Windows.Forms.Padding(1, 0, 1, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(645, 128);
+            this.label1.Size = new System.Drawing.Size(659, 128);
             this.label1.TabIndex = 2;
-            this.label1.Text = "WINLOCKER";
+            this.label1.Text = "PLUGG LOCK";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // pictureBox1

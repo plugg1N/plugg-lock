@@ -71,7 +71,7 @@ namespace Winlock
 
 
             label4.Text = String.Format(
-                "Wow! Hello there, {0}! Great to see you! Your PC has been officially locked by my WinLocker!\n\n" +
+                "Wow! Hello there, {0}! Great to see you! Your PC has been officially locked by my PLUGG LOCK!\n\n" +
                 "Your PC name is: {1}\n" +
                 "OS: {2}\n" +
                 "Amount of processor cores: {3}\n" +
