@@ -1,0 +1,11 @@
+C:\Users\bulka\source\repos\Winlock\Winlock\bin\Debug\Winlock.exe.config
+C:\Users\bulka\source\repos\Winlock\Winlock\bin\Debug\Winlock.exe
+C:\Users\bulka\source\repos\Winlock\Winlock\bin\Debug\Winlock.pdb
+C:\Users\bulka\source\repos\Winlock\Winlock\obj\Debug\Winlock.csproj.AssemblyReference.cache
+C:\Users\bulka\source\repos\Winlock\Winlock\obj\Debug\Winlock.csproj.SuggestedBindingRedirects.cache
+C:\Users\bulka\source\repos\Winlock\Winlock\obj\Debug\Winlock.Form1.resources
+C:\Users\bulka\source\repos\Winlock\Winlock\obj\Debug\Winlock.Properties.Resources.resources
+C:\Users\bulka\source\repos\Winlock\Winlock\obj\Debug\Winlock.csproj.GenerateResource.cache
+C:\Users\bulka\source\repos\Winlock\Winlock\obj\Debug\Winlock.csproj.CoreCompileInputs.cache
+C:\Users\bulka\source\repos\Winlock\Winlock\obj\Debug\Winlock.exe
+C:\Users\bulka\source\repos\Winlock\Winlock\obj\Debug\Winlock.pdb
